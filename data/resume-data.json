@@ -1,0 +1,271 @@
+{
+  "about": {
+    "name": "Cody",
+    "title": "Traffic Systems Research Engineer",
+    "description": "Innovative Traffic Systems Research Engineer with over 8 years of experience in intelligent transportation systems, traffic flow optimization, and data-driven urban mobility solutions. Specialized in developing cutting-edge algorithms and AI-powered systems that enhance traffic efficiency, reduce congestion, and improve road safety. Passionate about leveraging technology to create sustainable and smart transportation networks for modern cities.",
+    "education": "Ph.D. in Transportation Engineering, MIT (2016)",
+    "location": "San Francisco, CA",
+    "specialization": "Intelligent Transportation Systems & AI-Driven Traffic Optimization",
+    "interests": ["Smart Cities", "Machine Learning", "Sustainable Transportation", "Connected Vehicles", "Urban Planning"],
+    "languages": ["English (Native)", "Spanish (Professional)", "Mandarin (Conversational)"]
+  },
+  "stats": {
+    "projects": 50,
+    "yearsExperience": 8,
+    "publications": 15,
+    "citiesImpacted": 12
+  },
+  "experience": [
+    {
+      "position": "Senior Traffic Systems Research Engineer",
+      "company": "Urban Dynamics Lab",
+      "period": "2021 - Present",
+      "location": "San Francisco, CA",
+      "description": "Leading cutting-edge research on AI-powered traffic optimization systems. Developed adaptive signal control algorithms that reduced congestion by 35% in pilot cities. Managing a team of 5 engineers and collaborating with city planners to implement smart traffic solutions.",
+      "achievements": [
+        "Reduced average commute time by 25% through ML-based signal optimization",
+        "Published 5 peer-reviewed papers on traffic flow prediction",
+        "Secured $2M in research funding from NSF and DOT"
+      ]
+    },
+    {
+      "position": "Research Scientist - Transportation Systems",
+      "company": "Smart Cities Institute",
+      "period": "2019 - 2021",
+      "location": "Boston, MA",
+      "description": "Developed machine learning models for real-time traffic prediction and incident detection. Created computer vision systems for automated traffic monitoring that improved emergency response times by 25%.",
+      "achievements": [
+        "Deployed predictive models with 92% accuracy for traffic flow",
+        "Reduced incident detection time from 8 minutes to 90 seconds",
+        "Led collaboration with MIT on autonomous vehicle integration research"
+      ]
+    },
+    {
+      "position": "Traffic Data Analyst",
+      "company": "Metropolitan Transportation Authority",
+      "period": "2017 - 2019",
+      "location": "New York, NY",
+      "description": "Analyzed large-scale traffic datasets using big data technologies. Implemented optimization algorithms that improved traffic flow efficiency by 20% across Manhattan's busiest corridors.",
+      "achievements": [
+        "Processed over 10TB of traffic sensor data monthly",
+        "Created interactive dashboards for real-time traffic monitoring",
+        "Optimized bus routes resulting in 15% improvement in on-time performance"
+      ]
+    },
+    {
+      "position": "Junior Transportation Engineer",
+      "company": "Traffic Solutions Inc.",
+      "period": "2016 - 2017",
+      "location": "Chicago, IL",
+      "description": "Designed and simulated traffic control systems for urban intersections. Contributed to city-wide traffic management improvements through microsimulation and optimization techniques.",
+      "achievements": [
+        "Completed 20+ intersection redesign projects",
+        "Reduced pedestrian waiting time by 30% at key crossings",
+        "Developed automated reporting tools saving 10 hours weekly"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI-Powered Adaptive Signal Control",
+      "description": "Developed a reinforcement learning system that adapts traffic signals in real-time based on traffic flow patterns, reducing average wait times by 40% and vehicle emissions by 15%. Currently deployed in 3 major cities.",
+      "icon": "brain",
+      "tags": ["Deep RL", "Python", "TensorFlow", "Computer Vision", "IoT"],
+      "link": "#",
+      "year": "2023",
+      "impact": "50,000+ daily commuters"
+    },
+    {
+      "title": "V2X Connected Vehicle Platform",
+      "description": "Built a Vehicle-to-Everything communication platform enabling real-time data exchange between vehicles and infrastructure, improving safety and reducing accidents by 30% in test corridors.",
+      "icon": "car",
+      "tags": ["5G", "Edge Computing", "C++", "MQTT", "DSRC"],
+      "link": "#",
+      "year": "2022",
+      "impact": "1,000+ connected vehicles"
+    },
+    {
+      "title": "Traffic Flow Prediction System",
+      "description": "Created deep learning models using LSTM networks for predicting traffic patterns up to 4 hours in advance with 92% accuracy, enabling proactive traffic management.",
+      "icon": "chart-line",
+      "tags": ["LSTM", "PyTorch", "Big Data", "Apache Spark", "Kafka"],
+      "link": "#",
+      "year": "2022",
+      "impact": "Citywide deployment"
+    },
+    {
+      "title": "Smart Parking Management System",
+      "description": "Designed an IoT-based parking system with real-time occupancy detection, reducing parking search time by 60% and decreasing traffic from parking searches.",
+      "icon": "parking",
+      "tags": ["IoT", "Node.js", "MongoDB", "React", "AWS"],
+      "link": "#",
+      "year": "2021",
+      "impact": "10,000+ parking spaces"
+    },
+    {
+      "title": "Emergency Vehicle Prioritization",
+      "description": "Implemented an automatic green-wave system for emergency vehicles using GPS tracking and signal preemption, reducing response times by 30%.",
+      "icon": "ambulance",
+      "tags": ["Real-time Systems", "GPS", "Python", "Redis", "WebSockets"],
+      "link": "#",
+      "year": "2021",
+      "impact": "200+ emergency vehicles"
+    },
+    {
+      "title": "Multimodal Route Optimizer",
+      "description": "Developed an algorithm optimizing routes across multiple transportation modes (car, bus, bike, walk), improving overall network efficiency by 25%.",
+      "icon": "route",
+      "tags": ["Graph Theory", "Optimization", "Java", "PostgreSQL", "REST API"],
+      "link": "#",
+      "year": "2020",
+      "impact": "100,000+ route queries daily"
+    },
+    {
+      "title": "Computer Vision Traffic Analytics",
+      "description": "Created a computer vision system for automatic traffic counting, classification, and incident detection using edge AI devices at intersections.",
+      "icon": "video",
+      "tags": ["YOLO", "OpenCV", "Python", "Edge AI", "Docker"],
+      "link": "#",
+      "year": "2020",
+      "impact": "500+ intersections"
+    },
+    {
+      "title": "Congestion Pricing Optimization",
+      "description": "Designed dynamic pricing algorithms for toll roads that balance traffic demand and revenue, reducing peak-hour congestion by 20%.",
+      "icon": "dollar-sign",
+      "tags": ["Optimization", "Economics", "R", "Machine Learning", "SQL"],
+      "link": "#",
+      "year": "2019",
+      "impact": "$5M revenue optimization"
+    }
+  ],
+  "skills": {
+    "technical": [
+      {"name": "Traffic Simulation (VISSIM, SUMO)", "level": 5},
+      {"name": "Machine Learning & Deep Learning", "level": 5},
+      {"name": "Computer Vision & Image Processing", "level": 5},
+      {"name": "Data Analysis & Visualization", "level": 5},
+      {"name": "Signal Timing & Optimization", "level": 4},
+      {"name": "Connected & Autonomous Vehicles", "level": 4},
+      {"name": "GIS & Spatial Analysis", "level": 4},
+      {"name": "Transportation Planning", "level": 4},
+      {"name": "Network Analysis", "level": 4},
+      {"name": "Statistical Modeling", "level": 5}
+    ],
+    "software": [
+      {"name": "Python (TensorFlow, PyTorch, Pandas)", "level": 5},
+      {"name": "MATLAB/Simulink", "level": 5},
+      {"name": "SQL & NoSQL Databases", "level": 4},
+      {"name": "C++ & Java", "level": 4},
+      {"name": "R Statistical Computing", "level": 4},
+      {"name": "Apache Spark & Hadoop", "level": 4},
+      {"name": "Docker & Kubernetes", "level": 3},
+      {"name": "AWS & Azure Cloud", "level": 3},
+      {"name": "Git & CI/CD", "level": 4},
+      {"name": "JavaScript (Node.js, React)", "level": 3}
+    ],
+    "research": [
+      {"name": "Research Design & Methodology", "level": 5},
+      {"name": "Statistical Analysis & Hypothesis Testing", "level": 5},
+      {"name": "Academic & Technical Writing", "level": 5},
+      {"name": "Grant Writing & Funding", "level": 4},
+      {"name": "Project Management (Agile/Scrum)", "level": 4},
+      {"name": "Team Leadership", "level": 4},
+      {"name": "Public Speaking & Presentations", "level": 4},
+      {"name": "Peer Review Process", "level": 5},
+      {"name": "Cross-functional Collaboration", "level": 5},
+      {"name": "Stakeholder Management", "level": 4}
+    ]
+  },
+  "publications": [
+    {
+      "title": "Deep Reinforcement Learning for Adaptive Traffic Signal Control in Smart Cities",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": "2023",
+      "citations": 45
+    },
+    {
+      "title": "Real-time Traffic Flow Prediction Using Graph Neural Networks",
+      "journal": "Transportation Research Part C",
+      "year": "2022",
+      "citations": 72
+    },
+    {
+      "title": "V2X Communication for Emergency Vehicle Prioritization: A Case Study",
+      "journal": "Journal of Transportation Engineering",
+      "year": "2021",
+      "citations": 38
+    },
+    {
+      "title": "Computer Vision Applications in Modern Traffic Management Systems",
+      "journal": "Transportation Research Record",
+      "year": "2020",
+      "citations": 91
+    },
+    {
+      "title": "Optimization of Dynamic Congestion Pricing Using Machine Learning",
+      "journal": "Transportation Science",
+      "year": "2019",
+      "citations": 124
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Professional Traffic Operations Engineer (PTOE)",
+      "issuer": "Transportation Professional Certification Board",
+      "year": "2020"
+    },
+    {
+      "name": "AWS Certified Machine Learning - Specialty",
+      "issuer": "Amazon Web Services",
+      "year": "2021"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "Coursera - Andrew Ng",
+      "year": "2019"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Paper Award",
+      "organization": "IEEE ITSC Conference",
+      "year": "2023",
+      "description": "For research on AI-powered traffic optimization"
+    },
+    {
+      "title": "Innovation in Transportation Award",
+      "organization": "Institute of Transportation Engineers",
+      "year": "2022",
+      "description": "For V2X communication platform development"
+    },
+    {
+      "title": "Young Researcher Award",
+      "organization": "Transportation Research Board",
+      "year": "2021",
+      "description": "For outstanding contributions to traffic systems research"
+    }
+  ],
+  "contact": {
+    "email": "cody@traffic-systems.com",
+    "phone": "+1 (555) 123-4567",
+    "linkedin": "https://linkedin.com/in/cody-traffic-engineer",
+    "github": "https://github.com/cody-traffic",
+    "website": "https://cody-traffic-systems.com",
+    "twitter": "https://twitter.com/cody_traffic",
+    "scholar": "https://scholar.google.com/citations?user=cody_traffic",
+    "address": "San Francisco, CA 94105"
+  },
+  "testimonials": [
+    {
+      "text": "Cody's innovative approach to traffic optimization has revolutionized how our city manages congestion. The AI systems developed have saved millions in lost productivity.",
+      "author": "Dr. Sarah Chen",
+      "position": "Director of Transportation, City of San Francisco"
+    },
+    {
+      "text": "An exceptional researcher and engineer who brings both theoretical depth and practical solutions to complex transportation challenges.",
+      "author": "Prof. Michael Rodriguez",
+      "position": "MIT Transportation Systems Lab"
+    }
+  ]
+}
